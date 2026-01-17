@@ -1,6 +1,5 @@
 # Vishnu Vardhan Burri - Portfolio & Blog
 
-A modern, responsive portfolio website built with Next.js 15, Tailwind CSS, and shadcn/ui.
 
 ## Features
 
@@ -82,7 +81,7 @@ Your content here...
 ### Vercel (Recommended)
 
 1. Push your code to GitHub
-2. Import the repository on [Vercel](https://vercel.com)
+2. Import the repository 
 3. Deploy automatically
 
 ### GitHub Pages (Automatic via GitHub Actions)
